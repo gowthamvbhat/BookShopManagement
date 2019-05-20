@@ -1,0 +1,1 @@
+Book Shop Management system is built using C++ language. This project can be executed in the Turbo C++ compiler as it makes use of some old header files. This project implements the inverted indexing technique.
